@@ -101,7 +101,7 @@ sections:
           url: /images/images (1).jpeg
           altText: website
         text: |2+
-                          I create responsive and user-friendly websites tailored to your needs.
+                      I create responsive and user-friendly websites tailored to your needs.
 
 
 
