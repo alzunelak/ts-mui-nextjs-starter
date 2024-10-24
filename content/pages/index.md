@@ -116,11 +116,18 @@ sections:
           type: Image
           altText: Second item image
           url: /images/download.png
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          Eye-catching posters for events, promotions, and I Custom logo designs
+          that represent your brand.
+
+
+
+
+
+
+
+
+
         actions:
           - type: Button
             label: ''
