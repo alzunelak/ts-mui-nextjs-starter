@@ -223,7 +223,7 @@ sections:
             variant: text
             color: primary
   - type: CardsSection
-    title: Project'sss
+    title: Project's
     subtitle: ''
     items:
       - type: Card
