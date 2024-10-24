@@ -246,7 +246,7 @@ sections:
           wedding invitations.
         image:
           type: Image
-          url: /images/download (2).jpeg
+          url: /images/download (3).jpeg
           altText: First item image
         actions: []
       - type: Card
