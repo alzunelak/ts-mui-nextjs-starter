@@ -98,7 +98,7 @@ sections:
         title: Website
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/images (1).jpeg
           altText: First item image
         text: |+
           Responsive e-commerce website with custom design. Price: $2500
