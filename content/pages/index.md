@@ -35,12 +35,8 @@ sections:
     items:
       - type: Card
         title: E-Commerce
-        text: |+
-          Responsive e-commerce website with custom design. Price: $2500
-
-
-
-
+        text: |
+          Responsive e-commerce website with custom design. 
         image:
           type: Image
           url: /images/images (4).jpeg
