@@ -223,7 +223,7 @@ sections:
             variant: text
             color: primary
   - type: HeroSection
-    title: Skills
+    title: ''
     subtitle: ''
     text: |
       <div style="text-align: center">## **Skills**</div>
