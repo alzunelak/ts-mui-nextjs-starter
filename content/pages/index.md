@@ -8,7 +8,7 @@ sections:
     text: "\n\nIf you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_[mimahsuleiman@gmail.com](mailto:mimah@example.com)\n\n\n\n\n\n"
     actions:
       - type: Button
-        label: Start Building
+        label: ''
         url: ''
         size: large
         variant: contained
