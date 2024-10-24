@@ -149,6 +149,49 @@ sections:
             label: ''
             url: ''
   - type: CardsSection
+    title: Skills
+    subtitle: ''
+    items:
+      - type: Card
+        title: html
+        text: ''
+        image:
+          type: Image
+          altText: html
+        actions:
+          - type: Button
+            label: ''
+            url: /
+            size: medium
+            variant: text
+            color: primary
+      - type: Card
+        title: Javascript
+        text: ''
+        image:
+          type: Image
+          altText: javascript
+        actions:
+          - type: Button
+            label: ''
+            url: /
+            size: medium
+            variant: text
+            color: primary
+      - type: Card
+        title: Wordpress
+        text: ''
+        image:
+          type: Image
+          altText: Css
+        actions:
+          - type: Button
+            label: ''
+            url: /
+            size: medium
+            variant: text
+            color: primary
+  - type: CardsSection
     title: Cards Section Title
     subtitle: The section subtitle
     items:
@@ -199,49 +242,6 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
-  - type: CardsSection
-    title: Skills
-    subtitle: ''
-    items:
-      - type: Card
-        title: html
-        text: ''
-        image:
-          type: Image
-          altText: html
-        actions:
-          - type: Button
-            label: ''
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
-        title: Javascript
-        text: ''
-        image:
-          type: Image
-          altText: javascript
-        actions:
-          - type: Button
-            label: ''
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
-        title: Wordpress
-        text: ''
-        image:
-          type: Image
-          altText: Css
-        actions:
-          - type: Button
-            label: ''
             url: /
             size: medium
             variant: text
