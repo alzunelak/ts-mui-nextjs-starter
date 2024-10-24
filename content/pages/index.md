@@ -77,7 +77,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: Booking
         text: |+
           Business website with booking system integration. Price: $2200
 
