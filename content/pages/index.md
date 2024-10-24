@@ -153,19 +153,6 @@ sections:
             size: medium
             variant: text
             color: primary
-      - type: Card
-        title: Wordpress
-        text: ''
-        image:
-          type: Image
-          altText: Css
-        actions:
-          - type: Button
-            label: ''
-            url: /
-            size: medium
-            variant: text
-            color: primary
   - type: CardsSection
     title: ''
     subtitle: ''
