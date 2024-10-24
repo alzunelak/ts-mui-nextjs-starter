@@ -90,7 +90,7 @@ sections:
             variant: text
             color: primary
   - type: CardsSection
-    title: Services
+    title: ''
     subtitle: ''
     items:
       - type: Card
