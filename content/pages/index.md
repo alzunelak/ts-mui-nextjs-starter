@@ -188,7 +188,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Item Title
+        title: Css
         text: ''
         image:
           type: Image
