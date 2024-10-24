@@ -144,9 +144,7 @@ sections:
     title: ''
     subtitle: ''
     text: |
-      <div style="text-align: center">## **Skills**</div>
-
-      Wordpress
+      <div style="text-align: left">Wordpres</div>
 
       Javascript
 
