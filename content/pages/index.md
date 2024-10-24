@@ -115,6 +115,7 @@ sections:
         image:
           type: Image
           altText: Second item image
+          url: /images/download.jpeg
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
