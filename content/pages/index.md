@@ -57,10 +57,12 @@ sections:
             color: primary
       - type: Card
         title: Second Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          Modern portfolio website with SEO optimization. Price: $1800
+
+
+
+
         image:
           type: Image
           url: /images/images (5).jpeg
