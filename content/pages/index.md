@@ -158,7 +158,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: html
+        title: Javascript
         text: ''
         image:
           type: Image
