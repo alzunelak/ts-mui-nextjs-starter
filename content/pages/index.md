@@ -245,12 +245,6 @@ sections:
         size: large
         variant: contained
         color: primary
-      - type: Button
-        label: ''
-        url: ''
-        size: large
-        variant: outlined
-        color: primary
     image:
       type: Image
       url: /images/images.png
