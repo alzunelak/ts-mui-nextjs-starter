@@ -58,7 +58,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
+        title: SEO Optimization
         text: |+
           Modern portfolio website with SEO optimization. Price: $1800
 
