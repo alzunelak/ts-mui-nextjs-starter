@@ -162,7 +162,7 @@ sections:
         text: ''
         image:
           type: Image
-          altText: Second item image
+          altText: javascript
         actions:
           - type: Button
             label: Learn more
