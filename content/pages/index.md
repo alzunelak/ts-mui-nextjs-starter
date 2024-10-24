@@ -205,7 +205,6 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/mui-5.svg
           altText: Second item image
         actions:
           - type: Button
