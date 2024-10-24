@@ -145,19 +145,6 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Poster & Logo
-        text: ''
-        image:
-          type: Image
-          altText: Second item image
-        actions:
-          - type: Button
-            label: ''
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
         title: Cooking & Baking
         text: ''
         image:
