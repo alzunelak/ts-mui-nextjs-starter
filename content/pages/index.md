@@ -240,10 +240,11 @@ sections:
     items:
       - type: Card
         title: Honeycomb
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+
+          I got an order for an event since and they recommended and now a
+          client has booked me to design wedding invitations."
+
         image:
           type: Image
           url: /images/nextjs.svg
