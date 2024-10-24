@@ -142,7 +142,7 @@ sections:
             url: 'https://docs.netlify.com/visual-editor/overview/'
   - type: CardsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: html
