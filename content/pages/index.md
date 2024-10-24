@@ -20,7 +20,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: More info
         url: ''
         size: large
         variant: outlined
