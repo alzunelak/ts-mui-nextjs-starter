@@ -129,7 +129,7 @@ sections:
         title: Baking & Cooking
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/download (1).jpeg
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
