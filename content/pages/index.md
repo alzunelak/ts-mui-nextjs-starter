@@ -235,7 +235,7 @@ sections:
             variant: text
             color: primary
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: Contact
     subtitle: The section subtitle
     text: "## Contact Me\n\nIf you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_<mimah@example.com>\n\n\n\n\n\n\n"
     actions:
