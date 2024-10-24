@@ -148,27 +148,6 @@ sections:
           - type: Button
             label: ''
             url: ''
-  - type: HeroSection
-    title: Contact
-    subtitle: ''
-    text: "\n\nIf you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_[mimahsuleiman@gmail.com](mailto:mimah@example.com)\n\n\n\n\n\n"
-    actions:
-      - type: Button
-        label: '+254738395587'
-        url: ''
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: ''
-        url: ''
-        size: large
-        variant: outlined
-        color: primary
-    image:
-      type: Image
-      url: /images/images.png
-      altText: Hero section image
   - type: CardsSection
     title: Skills
     subtitle: ''
@@ -212,6 +191,27 @@ sections:
             size: medium
             variant: text
             color: primary
+  - type: HeroSection
+    title: Contact
+    subtitle: ''
+    text: "\n\nIf you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_[mimahsuleiman@gmail.com](mailto:mimah@example.com)\n\n\n\n\n\n"
+    actions:
+      - type: Button
+        label: '+254738395587'
+        url: ''
+        size: large
+        variant: contained
+        color: primary
+      - type: Button
+        label: ''
+        url: ''
+        size: large
+        variant: outlined
+        color: primary
+    image:
+      type: Image
+      url: /images/images.png
+      altText: Hero section image
   - type: CardsSection
     title: ''
     subtitle: ''
