@@ -54,12 +54,8 @@ sections:
             color: primary
       - type: Card
         title: SEO Optimization
-        text: |+
-          Modern portfolio website with SEO optimization. Price: $1800
-
-
-
-
+        text: |
+          Modern portfolio website with SEO optimization.
         image:
           type: Image
           url: /images/images (5).jpeg
