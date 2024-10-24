@@ -213,13 +213,6 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: ''
-        text: ''
-        image:
-          type: Image
-          altText: Second item image
-        actions: []
-      - type: Card
         title: Third Item Title
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
