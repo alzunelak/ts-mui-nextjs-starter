@@ -149,7 +149,6 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/nextjs.svg
           altText: First item image
         actions:
           - type: Button
