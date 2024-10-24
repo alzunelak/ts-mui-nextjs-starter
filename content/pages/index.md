@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Mimah Portfolio's
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: your dream website
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
