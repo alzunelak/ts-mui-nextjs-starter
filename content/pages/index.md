@@ -115,7 +115,7 @@ sections:
         image:
           type: Image
           altText: Second item image
-          url: /images/download.png
+          url: /images/graphic-design-workshop-poster-template_23-2149104467.jpg
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
