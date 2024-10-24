@@ -192,7 +192,7 @@ sections:
             variant: text
             color: primary
   - type: CardsSection
-    title: Cards Section Title
+    title: Project's
     subtitle: The section subtitle
     items:
       - type: Card
