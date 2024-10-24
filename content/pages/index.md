@@ -240,11 +240,10 @@ sections:
     items:
       - type: Card
         title: Honeycomb
-        text: >+
-
-          I got an order for an event since and they recommended and now a
-          client has booked me to design wedding invitations."
-
+        text: >
+          I got an order for an event to bake since they liked my work they
+          recommended and to their friends now a client has booked me to design
+          wedding invitations.
         image:
           type: Image
           url: /images/nextjs.svg
