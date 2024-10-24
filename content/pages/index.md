@@ -91,7 +91,7 @@ sections:
             color: primary
   - type: CardsSection
     title: Services
-    subtitle: Section subtitle here
+    subtitle: ''
     items:
       - type: Card
         title: First Card Title
