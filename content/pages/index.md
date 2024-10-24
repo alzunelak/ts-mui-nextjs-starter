@@ -5,18 +5,13 @@ sections:
   - type: HeroSection
     title: Mimah Portfolio's
     subtitle: "Your Dream Website Awaits\_Discover the Finest Web Designs Tailored For Your Business"
-    text: >+
-      ## **About Us**
+    text: >
+      ## **About**
 
 
       Mimah Suleiman is an experienced web designer with a portfolio of
       beautiful websites available for clients. We help you create the perfect
       website to suit your needs.
-
-
-
-
-
     actions:
       - type: Button
         label: Start Building
