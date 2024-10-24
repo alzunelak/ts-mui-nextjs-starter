@@ -14,7 +14,7 @@ sections:
       website to suit your needs.
     actions:
       - type: Button
-        label: Start Building
+        label: Skills
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
