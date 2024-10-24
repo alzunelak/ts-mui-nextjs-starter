@@ -154,7 +154,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Javascript
+        title: ''
         text: ''
         image:
           type: Image
