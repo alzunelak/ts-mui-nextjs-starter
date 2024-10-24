@@ -147,13 +147,15 @@ sections:
       - type: Card
         title: First Item Title
         text: |
-          /\* Skills Section \*/
-          \#skills {
+
+          /* Skills Section */
+          #skills {
           padding: 2em;
           margin: 1em;
           background-color: white;
           box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
           }
+          ```
 
           .skill {
           width: 48%; /\* Each skill will take up nearly half the width */
