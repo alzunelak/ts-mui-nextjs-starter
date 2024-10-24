@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: ''
+    title: Mimah's Potfolio
     subtitle: "Your Dream Website Awaits\_Discover the Finest Web Designs Tailored For Your Business"
     text: >
       ## **About**
