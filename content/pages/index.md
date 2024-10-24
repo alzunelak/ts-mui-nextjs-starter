@@ -63,7 +63,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/images (1).jpeg
+          url: /images/images (5).jpeg
           altText: Second item image
         actions:
           - type: Button
