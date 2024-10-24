@@ -165,7 +165,7 @@ sections:
           altText: javascript
         actions:
           - type: Button
-            label: Learn more
+            label: ''
             url: /
             size: medium
             variant: text
