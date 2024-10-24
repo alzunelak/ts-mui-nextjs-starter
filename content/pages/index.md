@@ -149,7 +149,7 @@ sections:
         text: ''
         image:
           type: Image
-          altText: First item image
+          altText: html
         actions:
           - type: Button
             label: Learn more
