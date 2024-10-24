@@ -140,10 +140,6 @@ sections:
     title: Skills
     subtitle: ''
     items: []
-  - type: CardsSection
-    title: ''
-    subtitle: ''
-    items: []
   - type: HeroSection
     title: ''
     subtitle: ''
