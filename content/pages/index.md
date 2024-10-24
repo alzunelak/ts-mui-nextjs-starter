@@ -245,7 +245,7 @@ sections:
     actions:
       - type: Button
         label: '+254738395587'
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: ''
         size: large
         variant: contained
         color: primary
