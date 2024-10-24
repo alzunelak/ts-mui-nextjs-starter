@@ -193,7 +193,7 @@ sections:
             color: primary
   - type: CardsSection
     title: Project's
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: First Item Title
