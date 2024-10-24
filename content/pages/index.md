@@ -39,7 +39,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Item Title
+        title: E-Commerce
         text: |+
           Responsive e-commerce website with custom design. Price: $2500
 
