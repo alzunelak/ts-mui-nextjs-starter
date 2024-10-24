@@ -74,10 +74,12 @@ sections:
             color: primary
       - type: Card
         title: Third Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          Business website with booking system integration. Price: $2200
+
+
+
+
         image:
           type: Image
           url: /images/images (6).jpeg
