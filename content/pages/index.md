@@ -213,7 +213,7 @@ sections:
           altText: Second item image
         actions:
           - type: Button
-            label: Learn more
+            label: Learn mo
             url: /
             size: medium
             variant: text
