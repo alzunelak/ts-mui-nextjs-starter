@@ -5,10 +5,18 @@ sections:
   - type: HeroSection
     title: Mimah Portfolio's
     subtitle: "Your Dream Website Awaits\_Discover the Finest Web Designs Tailored For Your Business"
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: >+
+      ## **About Us**
+
+
+      Mimah Suleiman is an experienced web designer with a portfolio of
+      beautiful websites available for clients. We help you create the perfect
+      website to suit your needs.
+
+
+
+
+
     actions:
       - type: Button
         label: Start Building
