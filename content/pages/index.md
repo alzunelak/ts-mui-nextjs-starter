@@ -99,7 +99,7 @@ sections:
         image:
           type: Image
           url: /images/images (1).jpeg
-          altText: First item image
+          altText: website
         text: |+
           Responsive e-commerce website with custom design. Price: $2500
 
