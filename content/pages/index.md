@@ -178,7 +178,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          altText: Third item image
+          altText: Css
         actions:
           - type: Button
             label: Learn more
