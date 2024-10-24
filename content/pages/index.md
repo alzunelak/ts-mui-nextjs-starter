@@ -73,12 +73,8 @@ sections:
             color: primary
       - type: Card
         title: Booking
-        text: |+
-          Business website with booking system integration. Price: $2200
-
-
-
-
+        text: |
+          Business website with booking system integration. 
         image:
           type: Image
           url: /images/images (6).jpeg
