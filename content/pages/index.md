@@ -8,7 +8,7 @@ sections:
     text: "\n\nIf you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_[mimahsuleiman@gmail.com](mailto:mimah@example.com)\n\n\n\n\n\n"
     actions:
       - type: Button
-        label: '+254'
+        label: '+254738395587'
         url: ''
         size: large
         variant: contained
