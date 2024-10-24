@@ -255,19 +255,4 @@ sections:
       type: Image
       url: /images/images.png
       altText: Hero section image
-  - type: HeroSection
-    title: Contact
-    subtitle: ''
-    text: "##### If you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_<mimah@example.com>\n"
-    actions:
-      - type: Button
-        label: '+254738395587'
-        url: ''
-        size: large
-        variant: contained
-        color: primary
-    image:
-      type: Image
-      url: /images/images.png
-      altText: Hero section image
 ---
