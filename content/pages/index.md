@@ -252,7 +252,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
     title: Project's
