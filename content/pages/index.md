@@ -201,7 +201,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
+        title: Poster & Logo
         text: ''
         image:
           type: Image
