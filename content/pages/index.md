@@ -214,7 +214,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: Cooking & Baking
         text: ''
         image:
           type: Image
