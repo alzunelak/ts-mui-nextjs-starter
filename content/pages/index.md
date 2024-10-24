@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Contact
-    subtitle: The section subtitle
+    subtitle: ''
     text: "\n\nIf you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_[mimahsuleiman@gmail.com](mailto:mimah@example.com)\n\n\n\n\n\n"
     actions:
       - type: Button
