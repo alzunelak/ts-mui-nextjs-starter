@@ -226,6 +226,8 @@ sections:
     title: Skills
     subtitle: ''
     text: |
+      <div style="text-align: center">**Skills**</div>
+
       Wordpress
 
       Javascript
