@@ -145,7 +145,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Card
-        title: First Item Title
+        title: html
         text: ''
         image:
           type: Image
