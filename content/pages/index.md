@@ -248,13 +248,7 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        actions:
-          - type: Button
-            label: ''
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: Third Item Title
         text: >-
