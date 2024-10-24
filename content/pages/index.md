@@ -146,60 +146,7 @@ sections:
     items:
       - type: Card
         title: First Item Title
-        text: |
-
-          /* Skills Section */
-          #skills {
-          padding: 2em;
-          margin: 1em;
-          background-color: white;
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          }
-          ```
-
-          .skill {
-          width: 48%; /\* Each skill will take up nearly half the width */
-          margin-bottom: 1.5em;
-          float: left; /* Align skills side by side \*/
-          }
-
-          .skill h3 {
-          margin-bottom: 0.5em;
-          }
-
-          .skill-bar {
-          background-color: #ddd;
-          border-radius: 20px;
-          overflow: hidden;
-          position: relative;
-          height: 20px;
-          margin-bottom: 0.5em;
-          }
-
-          .skill-level {
-          background-color: #1a73e8;
-          height: 100%;
-          color: white;
-          text-align: right;
-          padding-right: 10px;
-          line-height: 20px;
-          border-radius: 20px 0 0 20px;
-          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-          }
-
-          /\* Clear floats after skills \*/
-          \#skills:after {
-          content: "";
-          display: table;
-          clear: both;
-          }
-
-          /\* Media Queries for smaller screens */
-          @media screen and (max-width: 768px) {
-          .skill {
-          width: 100%; /* Skills will take full width on smaller screens \*/
-          }
-          }
+        text: ''
         image:
           type: Image
           url: /images/nextjs.svg
