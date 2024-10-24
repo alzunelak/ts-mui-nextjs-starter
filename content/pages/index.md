@@ -80,7 +80,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/images (6).jpeg
           altText: Third item image
         actions:
           - type: Button
