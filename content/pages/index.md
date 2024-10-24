@@ -40,10 +40,12 @@ sections:
     items:
       - type: Card
         title: First Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          Responsive e-commerce website with custom design. Price: $2500
+
+
+
+
         image:
           type: Image
           url: /images/images (4).jpeg
