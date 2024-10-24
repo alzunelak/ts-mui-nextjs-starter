@@ -5,11 +5,7 @@ sections:
   - type: HeroSection
     title: Contact
     subtitle: The section subtitle
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "\n\nIf you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_[mimahsuleiman@gmail.com](mailto:mimah@example.com)\n\n\n\n\n\n"
     actions:
       - type: Button
         label: Start Building
