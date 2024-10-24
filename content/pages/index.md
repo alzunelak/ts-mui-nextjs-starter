@@ -143,20 +143,7 @@ sections:
   - type: CardsSection
     title: ''
     subtitle: ''
-    items:
-      - type: Card
-        title: Cooking & Baking
-        text: ''
-        image:
-          type: Image
-          altText: Third item image
-        actions:
-          - type: Button
-            label: ''
-            url: /
-            size: medium
-            variant: text
-            color: primary
+    items: []
   - type: HeroSection
     title: ''
     subtitle: ''
