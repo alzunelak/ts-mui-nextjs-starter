@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Mimah Portfolio's
-    subtitle: Your Dream Website Awaits
+    subtitle: "Your Dream Website Awaits\_Discover the finest web designs tailored for your busines"
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
