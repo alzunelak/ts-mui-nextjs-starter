@@ -237,7 +237,7 @@ sections:
   - type: HeroSection
     title: Contact
     subtitle: ''
-    text: "\n\nIf you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_<mimah@example.com>\n"
+    text: "# If you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_<mimah@example.com>\n"
     actions:
       - type: Button
         label: '+254738395587'
