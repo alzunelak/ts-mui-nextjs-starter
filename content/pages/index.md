@@ -126,7 +126,7 @@ sections:
             label: ''
             url: ''
       - type: Card
-        title: Third Card Title
+        title: Baking & Cooking
         image:
           type: Image
           url: /images/ts.svg
