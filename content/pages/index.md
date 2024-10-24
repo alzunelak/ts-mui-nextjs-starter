@@ -101,8 +101,10 @@ sections:
           url: /images/images (1).jpeg
           altText: website
         text: |+
-          ```
-          ```
+          I create responsive and user-friendly websites tailored to your needs.
+
+
+
 
         actions:
           - type: Button
