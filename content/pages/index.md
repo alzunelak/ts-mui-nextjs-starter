@@ -154,13 +154,6 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: ''
-        text: ''
-        image:
-          type: Image
-          altText: javascript
-        actions: []
-      - type: Card
         title: Wordpress
         text: ''
         image:
