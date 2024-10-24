@@ -251,10 +251,17 @@ sections:
         actions: []
       - type: Card
         title: Logo Design Project
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+
+          I am in the process of designing a logo for a client and signing a
+          contract with an organization for their event, where I will be
+          creating their poster.
+
+
+
+
+
+
         image:
           type: Image
           url: /images/download.jpeg
