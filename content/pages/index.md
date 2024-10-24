@@ -250,7 +250,7 @@ sections:
           altText: First item image
         actions: []
       - type: Card
-        title: Third Item Title
+        title: Logo Design Project
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
