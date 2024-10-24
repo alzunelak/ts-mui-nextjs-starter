@@ -244,7 +244,7 @@ sections:
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Start Building
+        label: '+254738395587'
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
