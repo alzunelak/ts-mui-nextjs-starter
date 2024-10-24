@@ -139,20 +139,7 @@ sections:
   - type: CardsSection
     title: Skills
     subtitle: ''
-    items:
-      - type: Card
-        title: html
-        text: ''
-        image:
-          type: Image
-          altText: html
-        actions:
-          - type: Button
-            label: ''
-            url: /
-            size: medium
-            variant: text
-            color: primary
+    items: []
   - type: CardsSection
     title: ''
     subtitle: ''
