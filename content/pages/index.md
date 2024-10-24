@@ -159,7 +159,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
+        title: html
         text: ''
         image:
           type: Image
