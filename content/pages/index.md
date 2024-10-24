@@ -27,7 +27,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/images (7).jpeg
       altText: Hero section image
   - type: CardsSection
     title: Services
