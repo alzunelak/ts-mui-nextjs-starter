@@ -236,7 +236,7 @@ sections:
             color: primary
   - type: HeroSection
     title: Contact
-    subtitle: The section subtitle
+    subtitle: "If you'd like to connect or discuss potential opportunities, feel free to reach out!Email:\_mimahsuleiman@gmail.com"
     text: "## Contact Me\n\nIf you'd like to connect or discuss potential opportunities, feel free to reach out!\n\nEmail:\_<mimah@example.com>\n\n\n\n\n\n\n"
     actions:
       - type: Button
