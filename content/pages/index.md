@@ -100,9 +100,8 @@ sections:
           type: Image
           url: /images/images (1).jpeg
           altText: website
-        text: |+
-          Responsive e-commerce website with custom design. Price: $2500
-
+        text: |2+
+                          I create responsive and user-friendly websites tailored to your needs.
 
 
 
