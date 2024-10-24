@@ -159,13 +159,7 @@ sections:
         image:
           type: Image
           altText: javascript
-        actions:
-          - type: Button
-            label: ''
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: Wordpress
         text: ''
