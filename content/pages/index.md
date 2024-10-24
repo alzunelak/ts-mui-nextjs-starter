@@ -246,7 +246,7 @@ sections:
           wedding invitations.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/download (2).jpeg
           altText: First item image
         actions: []
       - type: Card
